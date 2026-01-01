@@ -23,7 +23,7 @@ body {
     width: 100%;
     padding: 15px;
     font-size: 28px;
-    text-align: right;
+    text-align: center; /* Changed from right to center */
     border: 1px solid #32cd32;
     border-radius: 5px;
     background-color: #1a1a1a;
